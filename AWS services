@@ -3,3 +3,5 @@ IAM
 RDS
 Amazon Auto scaling
 Amazon lambda (Even-driven computing service)
+Amazon lambda (Serverless)
+
